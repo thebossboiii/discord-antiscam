@@ -1,0 +1,33 @@
+{
+  "name": "discord-antiscam",
+  "version": "1.0.0",
+  "description": "Anti scam/phishing link module for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebossboiii/discord-antiscam.git"
+  },
+  "keywords": [
+    "api",
+    "scam",
+    "anti-scam",
+    "discord",
+    "scam",
+    "phishing",
+    "links",
+    "discord",
+    "js"
+  ],
+  "author": "thebossboiii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebossboiii/discord-antiscam/issues"
+  },
+  "homepage": "https://github.com/thebossboiii/discord-antiscam#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
